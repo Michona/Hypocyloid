@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  main.cpp
+main.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(69): warning C4305: '-=': truncation from 'double' to 'float'
+main.cpp(74): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication2.vcxproj -> C:\Users\mitev\source\repos\ConsoleApplication2\x64\Release\Hypocycloid.exe
